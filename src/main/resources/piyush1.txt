@@ -1,0 +1,62 @@
+On the <START:element> Home <END> tab,
+in the <START:element> Find <END> group_ click <START:element> Go To <END>
+click <START:element> Next. <END>
+<START:element> Press <END> ENTER or TAB or RIGHT <START:element> ARROW. <END>
+<START:element> Type Fox, <END>
+and then press <START:element> TAB. <END>
+<START:element> Press <END> ALT , JB , W, and then D.
+Click cell I9.
+On the <START:element> Formulas <END> tab,
+in the <START:element> Function Library <END> group_click the <START:element> Logical, <END>
+and then click <START:element> IF. <END>
+From the <START:element> Properties <END> field list, drag the <START:element> Listing <END> field over the <START:element> Sold <END> field name in the fifth column of the query design grid.
+Release the mouse.
+Drag to select rows 3 through 13 in the table.
+On the <START:element> Table Tools Layout <END> tab, in the <START:element> Data <END> group, click <START:element> Sort. <END>
+Double-click the <START:element> Repairs <END> table.
+Double-click the <START:element> Technicians <END> table.
+Click the <START:element> Close <END> button.
+On the <START:element> Relationship Tools Design <END> tab, in the <START:element> Tools <END> group, click <START:element> Edit Relationships. <END>
+In the <START:element> Edit Relationships <END> dialog box, click <START:element> Create New. <END>
+In the <START:element> Create New <END> dialog box, in the <START:element> Left Table Name <END> box, click the down arrow, and then click <START:element> Customers <END> (or <START:element> Repairs). <END>
+In the <START:element> Right Table Name <END> box, click the down arrow, and then click <START:element> Repairs <END> (or <START:element> Customers). <END>
+In the <START:element> Left Column Name <END> box, click the down arrow, and then click <START:element> CustomerID. <END>
+In the <START:element> Right Column Name <END> box, click the down arrow, and then click <START:element> CustomerID. <END>
+<START:element> Click OK. <END>
+In the <START:element> Edit Relationships <END> dialog box, click the <START:element> Enforce Referential Integrity <END> check box.
+<START:element> Click Create. <END>
+Click the <START:element> Database Tools <END> tab.
+On the <START:element> Database Tools <END> tab, in the <START:element> Relationships <END> group, click <START:element> Relationships. <END>
+On the <START:element> Relationship Tools Design <END> tab, in the <START:element> Relationships <END> group, click <START:element> Show Table. <END>
+In the <START:element> Show Table <END> dialog box, double-click the <START:element> Accounts <END> table to add it to the <START:element> Relationships <END> space.
+Double-click the <START:element> Branch <END> table.
+Double-click the <START:element> Customers <END> table.
+Click the <START:element> Close <END> button.
+In the <START:element> Get External <END> Data - <START:element> Excel Spreadsheet <END> dialog box, click <START:element> Browse. <END>
+In the <START:element> File Open <END> dialog box, double-click a02h2Customers.
+In the <START:element> Get External <END> Data – <START:element> Excel Spreadsheet <END> dialog box, click <START:element> OK. <END>
+On the <START:element> External Data <END> tab, in the <START:element> Import & <END> <START:element> Link <END> group, click <START:element> Access. <END>
+In the <START:element> Get External <END> Data - <START:element> Access Database <END> dialog box, click <START:element> Browse. <END>
+In the <START:element> File Open <END> dialog box, double-click the file a02customers.
+In the <START:element> Get External <END> Data - <START:element> Access Database <END> dialog box, click <START:element> OK. <END>
+On the <START:element> External Data <END> tab, in the <START:element> Import & <END> <START:element> Link <END> group, click <START:element> Access. <END>
+In the <START:element> Get External <END> Data - <START:element> Access Database <END> dialog box, click <START:element> Browse. <END>
+In the <START:element> File Open <END> dialog box, double-click the file a02h2Accounts.
+In the <START:element> Get External <END> Data - <START:element> Access Database <END> dialog box, click <START:element> OK. <END>
+Click the <START:element> RepairDate <END> field in the top pane of the design window.
+In the <START:element> Field Properties <END> pane, click in the <START:element> Input Mask <END> property box. On the <START:element> Table Tools Design <END> tab, in the <START:element> Tools <END> group, click the <START:element> Builder <END> button.
+<START:element> Alternatively, <END> right-click the property box, and from the shortcut menu, click <START:element> Build. <END>
+<START:element> Click Yes <END> to save the table.
+In the <START:element> Input Mask <END> Wizard, click <START:element> Short Date, <END> and then click the <START:element> Next <END> button.
+<START:element> Alternatively, <END> double-click <START:element> Short Date. <END>
+Click the <START:element> Next (or <END> <START:element> Finish) <END> button.
+<START:element> If <END> necessary, click the <START:element> Finish <END> button.
+<START:element> Press <END> ENTER, or <START:element> TAB, <END> or RIGHT ARROW to select the <START:element> Genre <END> column.
+<START:element> Type DRA, <END> and then press <START:element> TAB. <END>
+On the <START:element> Home <END> tab, in the <START:element> Views <END> group, click <START:element> View. <END>
+<START:element> Click This <END> PC to open the <START:element> Open <END> dialog box.
+Alternatively, on the <START:element> Open <END> page, click <START:element> Browse. <END>
+On the <START:element> Home <END> tab, in the <START:element> Find <END> group, click <START:element> Go To, <END> and click <START:element> Next. <END>
+<START:element> Click Go To <END> again, and click <START:element> Previous. <END>
+Alternatively, on the <START:element> Home <END> tab, in the <START:element> Find <END> group, click <START:element> Go To <END> and click <START:element> Previous. <END>
+<START:element> Click Go To <END> again and click <START:element> Next. <END>

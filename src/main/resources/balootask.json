@@ -1,0 +1,221 @@
+{
+     "_id": "55f2a1c183514edc454b2899",
+     "friendlyId": "SKL16.PPT.02.02.02.T1",
+     "taskId": "55f29a2d39d1e3bd0a59853e",
+     "title": "PPT Skill 2.02: Change Themes and Variants",
+     "__t": "Scenario",
+     "__v": 16,
+     "isActive": true,
+     "threads": [
+          {
+               "sequence": 0,
+               "thread": "5633bbefb9602ae47e98cb20",
+               "_id": "5633bbefb9602ae47e98cb22"
+          },
+          {
+               "sequence": 1,
+               "thread": "571d2e89498ab0911a7555df",
+               "_id": "571d2e89498ab0911a7555e2"
+          }
+     ],
+     "steps": [
+          {
+               "text": "Change the Design Theme of the presentation&nbsp;to Retrospect (seventh column, first row under Office).",
+               "_id": "55f2a1c132fbf9030b0a68cc",
+               "threads": [],
+               "skills": [
+                    {
+                         "_id": "55f1379c7d21027c0522cb03",
+                         "title": "Apply a theme to a presentation",
+                         "skillId": "PP_THEMES_434",
+                         "app": [
+                              "PPT 2013",
+                              "PPT 2016"
+                         ]
+                    }
+               ],
+               "methods": [
+                    {
+                         "type": "Ribbon",
+                         "_id": "55f2a1c132fbf9030b0a68d3",
+                         "status": "supported",
+                         "actions": [
+                              {
+                                   "text": "Press TAB or SHIFT+TAB to select the General tab",
+                                   "_id": "5609727da73856e81e7e77bb",
+                                   "end": "00:03:203",
+                                   "start": "00:00:000"
+                              },
+                              {
+                              	"text":"Press ALT  , M, I."
+                              },
+                              {
+                              	"text": "Press F6 until slide pane is active, then TAB to select the shape, press ALT  , JD, SZ."
+                              }
+                         ],
+                         "primary": true
+                    }
+               ]
+          }
+     ],
+     "difficulty": -1,
+     "levelOfRevision": 1,
+     "documents": [
+          {
+               "category": {
+                    "_id": "559d0c3e8e46f985d8f9e84d",
+                    "code": "AUDIO_FILE",
+                    "displayName": "Audio File",
+                    "allowedAmount": "1",
+                    "notifications": true,
+                    "order": 3,
+                    "fileSize": 20971520,
+                    "required": false,
+                    "capability": "edit_audio_file",
+                    "__v": 0,
+                    "allowedPhases": [
+                         "AUT",
+                         "CQA",
+                         "ERV",
+                         "DEV"
+                    ]
+               },
+               "file": [
+                    {
+                         "_id": "56b4f77cf9f5b147776c4c1e",
+                         "__t": "files",
+                         "originalName": "SKL16_PPT_02_02_02_T1_AUDIO_FILE.mp3",
+                         "fileType": "audio/mpeg",
+                         "fileSize": 213577,
+                         "timeStamp": "2016-02-05T19:26:52.870Z",
+                         "tmpName": "SKL16_PPT_02_02_02_T1_AUDIO_FILE_1454700412870.mp3",
+                         "location": "55f29a0a39d1e3bd0a597569/PPT 2016/55f2a1c183514edc454b2899",
+                         "__v": 0,
+                         "documentVersion": 1,
+                         "updatedTimestamp": "2016-02-05T19:26:52.880Z",
+                         "createdTimestamp": "2016-02-05T19:26:52.877Z"
+                    }
+               ]
+          },
+          {
+               "category": {
+                    "_id": "558a614d8963451025d9428a",
+                    "code": "START_DOC",
+                    "displayName": "Start Doc",
+                    "allowedAmount": "1",
+                    "notifications": true,
+                    "order": 1,
+                    "fileSize": 20971520,
+                    "required": true,
+                    "__v": 0,
+                    "capability": "edit_file",
+                    "allowedPhases": [
+                         "AUT"
+                    ]
+               },
+               "file": [
+                    {
+                         "_id": "571e1d2d7cbabe062270ee1d",
+                         "__t": "files",
+                         "originalName": "SKL16_PPT_02_02_02_T1_START_DOC.pptx",
+                         "fileType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                         "fileSize": 4145028,
+                         "timeStamp": "2016-04-25T13:35:41.434Z",
+                         "tmpName": "SKL16_PPT_02_02_02_T1_START_DOC_1461591341435.pptx",
+                         "location": "55f29a0a39d1e3bd0a597569/PPT 2016/55f2a1c183514edc454b2899",
+                         "__v": 0,
+                         "documentVersion": 1,
+                         "updatedTimestamp": "2016-04-25T13:35:41.461Z",
+                         "createdTimestamp": "2016-04-25T13:35:41.459Z"
+                    }
+               ]
+          },
+          {
+               "category": {
+                    "_id": "558a614d8963451025d9428b",
+                    "code": "END_DOC",
+                    "displayName": "End Doc",
+                    "allowedAmount": "1",
+                    "notifications": true,
+                    "order": 2,
+                    "fileSize": 20971520,
+                    "required": true,
+                    "capability": "edit_file",
+                    "__v": 0,
+                    "allowedPhases": [
+                         "AUT"
+                    ]
+               },
+               "file": [
+                    {
+                         "_id": "55f6669a953862cc128bd513",
+                         "__t": "files",
+                         "originalName": "SKL16_PPT_02_02_02_T1_END_DOC.pptx",
+                         "fileType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                         "fileSize": 153147,
+                         "timeStamp": "2015-09-14T06:18:02.655Z",
+                         "tmpName": "SKL16_PPT_02_02_02_T1_END_DOC_1442211482655.pptx",
+                         "location": "55f29a0a39d1e3bd0a597569/PPT 2016/55f2a1c183514edc454b2899",
+                         "__v": 0,
+                         "documentVersion": 1,
+                         "updatedTimestamp": "2015-09-14T06:18:02.656Z",
+                         "createdTimestamp": "2015-09-14T06:18:02.656Z"
+                    }
+               ]
+          },
+          {
+               "category": {
+                    "_id": "559f579c8e46f988c0eec44c",
+                    "code": "AUDIO_TIMING_FILE",
+                    "displayName": "Audio Timing File",
+                    "allowedAmount": "1",
+                    "notifications": true,
+                    "order": 5,
+                    "fileSize": 20971520,
+                    "required": false,
+                    "capability": "edit_audio_file",
+                    "__v": 0,
+                    "allowedPhases": [
+                         "AUT",
+                         "CQA",
+                         "ERV",
+                         "DEV"
+                    ]
+               },
+               "file": [
+                    {
+                         "_id": "56b4f782f9f5b147776c4c26",
+                         "__t": "files",
+                         "originalName": "SKL16_PPT_02_02_02_T1_AUDIO_TIMING_FILE.txt",
+                         "fileType": "text/plain",
+                         "fileSize": 139,
+                         "timeStamp": "2016-02-05T19:26:58.125Z",
+                         "tmpName": "SKL16_PPT_02_02_02_T1_AUDIO_TIMING_FILE_1454700418125.txt",
+                         "location": "55f29a0a39d1e3bd0a597569/PPT 2016/55f2a1c183514edc454b2899",
+                         "__v": 0,
+                         "documentVersion": 1,
+                         "updatedTimestamp": "2016-02-05T19:26:58.129Z",
+                         "createdTimestamp": "2016-02-05T19:26:58.128Z"
+                    }
+               ]
+          }
+     ],
+     "phase": {
+          "code": "SQA"
+     },
+     "type": {
+          "index": 1,
+          "code": "T1"
+     },
+     "updatedBy": {
+          "_id": "5646d8f072b4c55f5903700c",
+          "name": "DEV Admin"
+     },
+     "createdBy": {
+          "_id": "55f29ae932fbf9030b068c7f",
+          "name": "Ralph Moore"
+     },
+     "documentVersion": 56,
+     "updatedTimestamp": "2016-04-26T14:08:05.584Z",
+     "createdTimestamp": "2015-07-18T10:31:22.150Z"
+}
